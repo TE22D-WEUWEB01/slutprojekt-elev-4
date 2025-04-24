@@ -1,0 +1,2223 @@
+24-05-02 14:16 Session started
+----------------------------------------
+14:16:30 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+
+15:14:34 009:004 > d
+15:14:34 009:005 > di
+15:14:34 009:006 > div
+15:14:34 009:004 > <div></div>
+15:14:38 009:004 > div
+15:14:40 009:004 > .
+15:14:40 009:005 > .k
+15:14:40 009:006 > .ko
+15:14:40 009:007 > .kon
+15:14:40 009:008 > .kont
+15:14:41 009:009 > .konta
+15:14:41 009:010 > .kontai
+15:14:41 009:011 > .kontain
+15:14:41 009:012 > .kontaine
+15:14:41 009:013 > .kontainer
+15:14:41 009:004 > <div class="kontainer"></div>
+
+15:14:48 010:008 > 1
+15:14:48 010:008 > 1h
+15:14:48 010:009 > 1h1
+15:14:49 010:008 > <h1></h1>
+15:14:51 010:012 > C
+15:14:51 010:013 > Ca
+15:14:52 010:014 > Cat
+15:14:52 010:015 > Catd
+15:14:52 010:016 > Catdo
+15:14:52 010:017 > Catdop
+15:14:53 010:018 > Catdopt
+15:14:53 010:019 > Catdopti
+15:14:53 010:020 > Catdoptio
+15:14:53 010:021 > Catdoption
+
+15:15:05 011:008 > .
+15:15:05 011:009 > .m
+15:15:05 011:010 > .me
+15:15:05 011:011 > .men
+15:15:05 011:012 > .meny
+15:15:06 011:008 > <div class="meny"></div>
+15:15:07 011:008 > .meny
+15:15:08 011:008 > u
+15:15:08 011:009 > ul
+15:15:08 011:008 > <ul></ul>
+15:15:11 011:012 >  c
+15:15:11 011:013 >  cl
+15:15:12 011:012 > class=""
+15:15:12 011:019 > m
+15:15:13 011:020 > me
+15:15:13 011:021 > men
+15:15:13 011:022 > meny
+
+15:15:16 012:012 > l
+15:15:16 012:013 > li
+15:15:17 012:012 > <li></li>
+15:15:21 012:016 > a
+15:15:21 012:016 > <a href=""></a>
+15:15:23 012:000 > <li><a href=""></a></li>
+15:15:24 013:000 > <li><a href=""></a></li>
+15:15:24 014:000 > <li><a href=""></a></li>
+15:16:06 012:025 > i
+15:16:06 012:026 > in
+15:16:06 012:027 > ind
+15:16:06 012:028 > inde
+15:16:07 012:025 > index.html
+15:16:16 012:037 > O
+15:16:33 012:019 > Oc
+15:16:34 012:020 > Ocl
+15:16:34 012:021 > Ocla
+15:16:34 012:022 > Oclas
+15:16:34 012:023 > Oclass
+15:16:34 012:019 > class
+15:16:37 012:019 > classhref
+15:16:40 012:019 >   c
+15:16:40 012:020 >   cl
+15:16:40 012:021 >   cla
+15:16:41 012:021 >   claa
+15:16:41 012:019 > class=""
+15:16:42 012:026 > a
+15:16:42 012:027 > ak
+15:16:42 012:028 > akt
+15:16:42 012:029 > akti
+15:16:42 012:030 > aktiv
+15:16:59 012:051 > aktiv c
+15:16:59 012:052 > aktiv ca
+15:16:59 012:053 > aktiv cat
+15:17:00 012:053 > aktiv catt
+15:17:01 012:054 > aktiv cattd
+15:17:01 012:055 > aktiv cattdo
+15:17:01 012:051 > Catdoption
+
+15:17:34 013:027 > O
+15:17:35 013:028 > Om
+15:17:35 013:030 > Om o
+15:17:35 013:031 > Om os
+15:17:35 013:032 > Om oss
+
+15:17:38 014:027 > P
+15:17:38 014:028 > Pr
+15:17:38 014:029 > Pri
+15:17:38 014:030 > Pris
+15:17:40 014:031 > Prisl
+15:17:40 014:032 > Prisli
+15:17:40 014:033 > Prislis
+15:17:40 014:034 > Prislist
+15:17:40 014:035 > Prislista
+
+15:17:42 015:027 > K
+15:17:42 015:028 > Ka
+15:17:42 015:029 > Kat
+15:17:43 015:030 > Katt
+15:17:43 015:031 > Katte
+15:17:43 015:032 > Katter
+
+15:17:51 018:008 > h
+15:17:51 018:009 > h2
+15:17:51 018:008 > <h2></h2>
+15:18:21 018:012 > V
+15:18:21 018:013 > Vi
+15:18:24 018:013 > Vi i
+15:18:25 018:015 > Vi i ä
+15:18:25 018:016 > Vi i är
+15:18:26 018:018 > Vi i är e
+15:18:26 018:019 > Vi i är et
+15:18:26 018:020 > Vi i är ett
+15:18:27 018:022 > Vi i är ett a
+15:18:27 018:023 > Vi i är ett ad
+15:18:28 018:024 > Vi i är ett ado
+15:18:28 018:025 > Vi i är ett adop
+15:18:28 018:026 > Vi i är ett adopt
+15:18:28 018:027 > Vi i är ett adopti
+15:18:28 018:028 > Vi i är ett adoptio
+15:18:28 018:029 > Vi i är ett adoption
+15:18:29 018:030 > Vi i är ett adoptions
+15:18:29 018:031 > Vi i är ett adoptionsc
+15:18:29 018:032 > Vi i är ett adoptionsce
+15:18:29 018:033 > Vi i är ett adoptionscen
+15:18:30 018:034 > Vi i är ett adoptionscent
+15:18:30 018:035 > Vi i är ett adoptionscente
+15:18:30 018:036 > Vi i är ett adoptionscenter
+15:18:30 018:038 > Vi i är ett adoptionscenter f
+15:18:30 018:039 > Vi i är ett adoptionscenter fö
+15:18:31 018:040 > Vi i är ett adoptionscenter för
+15:18:31 018:042 > Vi i är ett adoptionscenter för k
+15:18:31 018:043 > Vi i är ett adoptionscenter för ka
+15:18:32 018:044 > Vi i är ett adoptionscenter för kat
+15:18:32 018:045 > Vi i är ett adoptionscenter för katt
+15:18:32 018:046 > Vi i är ett adoptionscenter för kattu
+15:18:33 018:047 > Vi i är ett adoptionscenter för kattun
+15:18:33 018:048 > Vi i är ett adoptionscenter för kattung
+15:18:33 018:049 > Vi i är ett adoptionscenter för kattunga
+15:18:33 018:050 > Vi i är ett adoptionscenter för kattungar
+15:18:33 018:051 > Vi i är ett adoptionscenter för kattungara
+15:18:35 018:052 > Vi i är ett adoptionscenter för kattungara  o
+15:18:35 018:053 > Vi i är ett adoptionscenter för kattungara  oc
+15:18:35 018:054 > Vi i är ett adoptionscenter för kattungara  och
+15:18:38 018:046 > Vi i är ett adoptionscenter för kattungara  och e
+15:18:38 018:047 > Vi i är ett adoptionscenter för kattungara  och er
+15:18:38 018:048 > Vi i är ett adoptionscenter för kattungara  och err
+15:18:39 018:049 > Vi i är ett adoptionscenter för kattungara  och err  i
+15:18:39 018:051 > Vi i är ett adoptionscenter för kattungara  och err  i a
+15:18:39 018:052 > Vi i är ett adoptionscenter för kattungara  och err  i al
+15:18:40 018:053 > Vi i är ett adoptionscenter för kattungara  och err  i all
+15:18:40 018:054 > Vi i är ett adoptionscenter för kattungara  och err  i alla
+15:18:41 018:056 > Vi i är ett adoptionscenter för kattungara  och err  i alla å
+15:18:41 018:057 > Vi i är ett adoptionscenter för kattungara  och err  i alla ål
+15:18:41 018:058 > Vi i är ett adoptionscenter för kattungara  och err  i alla åld
+15:18:41 018:059 > Vi i är ett adoptionscenter för kattungara  och err  i alla åldr
+15:18:41 018:060 > Vi i är ett adoptionscenter för kattungara  och err  i alla åldra
+15:18:41 018:061 > Vi i är ett adoptionscenter för kattungara  och err  i alla åldrar
+
+15:18:54 019:008 > p
+15:18:54 019:008 > <p></p>
+15:18:57 019:011 > V
+15:18:57 019:012 > Vi
+15:19:03 019:014 > Vi h
+15:19:03 019:015 > Vi ha
+15:19:03 019:016 > Vi har
+15:19:04 019:018 > Vi har k
+15:19:04 019:019 > Vi har ka
+15:19:04 019:020 > Vi har kat
+15:19:05 019:021 > Vi har kate
+15:19:05 019:021 > Vi har katet
+15:19:06 019:018 > Vi har katetm
+15:19:06 019:019 > Vi har katetma
+15:19:06 019:020 > Vi har katetmas
+15:19:07 019:021 > Vi har katetmass
+15:19:07 019:022 > Vi har katetmassa
+15:19:07 019:024 > Vi har katetmassa k
+15:19:07 019:025 > Vi har katetmassa ka
+15:19:07 019:026 > Vi har katetmassa kat
+15:19:07 019:027 > Vi har katetmassa katt
+15:19:08 019:028 > Vi har katetmassa katte
+15:19:08 019:029 > Vi har katetmassa katter
+15:19:08 019:031 > Vi har katetmassa katter o
+15:19:09 019:031 > Vi har katetmassa katter o i
+15:19:09 019:032 > Vi har katetmassa katter o io
+15:19:09 019:033 > Vi har katetmassa katter o iol
+15:19:09 019:034 > Vi har katetmassa katter o ioli
+15:19:10 019:033 > Vi har katetmassa katter o ioli o
+15:19:11 019:034 > Vi har katetmassa katter o ioli ol
+15:19:11 019:035 > Vi har katetmassa katter o ioli oli
+15:19:11 019:036 > Vi har katetmassa katter o ioli olik
+15:19:11 019:037 > Vi har katetmassa katter o ioli olika
+15:19:12 019:039 > Vi har katetmassa katter o ioli olika s
+15:19:12 019:040 > Vi har katetmassa katter o ioli olika so
+15:19:12 019:041 > Vi har katetmassa katter o ioli olika sor
+15:19:12 019:042 > Vi har katetmassa katter o ioli olika sort
+15:19:12 019:043 > Vi har katetmassa katter o ioli olika sorte
+15:19:12 019:044 > Vi har katetmassa katter o ioli olika sorter
+15:19:19 019:039 > Vi har katetmassa katter o ioli olika sorter s
+15:19:19 019:040 > Vi har katetmassa katter o ioli olika sorter st
+15:19:20 019:041 > Vi har katetmassa katter o ioli olika sorter sto
+15:19:20 019:042 > Vi har katetmassa katter o ioli olika sorter stor
+15:19:20 019:043 > Vi har katetmassa katter o ioli olika sorter storl
+15:19:20 019:044 > Vi har katetmassa katter o ioli olika sorter storle
+15:19:21 019:045 > Vi har katetmassa katter o ioli olika sorter storlek
+15:19:21 019:046 > Vi har katetmassa katter o ioli olika sorter storleka
+15:19:21 019:047 > Vi har katetmassa katter o ioli olika sorter storlekat
+15:19:22 019:047 > Vi har katetmassa katter o ioli olika sorter storlekatr
+15:19:22 019:048 > Vi har katetmassa katter o ioli olika sorter storlekatr,
+15:19:22 019:050 > Vi har katetmassa katter o ioli olika sorter storlekatr, r
+15:19:23 019:051 > Vi har katetmassa katter o ioli olika sorter storlekatr, ra
+15:19:23 019:052 > Vi har katetmassa katter o ioli olika sorter storlekatr, ras
+15:19:23 019:053 > Vi har katetmassa katter o ioli olika sorter storlekatr, rase
+15:19:23 019:054 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser
+15:19:24 019:056 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser ,
+15:19:27 019:056 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , ,
+15:19:27 019:058 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , f
+15:19:28 019:059 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , fä
+15:19:28 019:060 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , fär
+15:19:28 019:061 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färg
+15:19:28 019:062 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färge
+15:19:28 019:063 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger
+15:19:29 019:065 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger o
+15:19:29 019:066 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger oc
+15:19:29 019:067 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och
+15:19:30 019:069 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och å
+15:19:30 019:070 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och ål
+15:19:30 019:071 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åld
+15:19:31 019:072 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldr
+15:19:31 019:073 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldra
+15:19:31 019:074 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrar
+15:19:54 019:008 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarf
+15:19:54 019:009 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarfi
+15:19:54 019:010 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarfig
+15:19:55 019:011 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarfigu
+15:19:55 019:012 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarfigur
+15:19:56 019:013 > Vi har katetmassa katter o ioli olika sorter storlekatr, raser , , färger och åldrarfigure
+15:19:56 019:008 > <figure></figure>
+15:20:05 021:000 > </figure>
+15:20:25 019:016 > </figure>
+15:20:25 019:008 > figure
+15:20:27 019:068 > åldrar
+
+15:20:35 021:008 > f
+15:20:35 021:009 > fi
+15:20:36 021:010 > fig
+15:20:36 021:011 > figy
+15:20:36 021:012 > figyr
+15:20:36 021:013 > figyre
+15:20:37 021:011 > figyreu
+15:20:37 021:012 > figyreur
+15:20:37 021:013 > figyreure
+15:20:38 021:008 > <figure></figure>
+
+15:20:40 022:012 > i
+15:20:40 022:013 > im
+15:20:40 022:014 > img
+15:20:40 022:012 > <img src="" alt="">
+
+15:20:44 023:012 > f
+15:20:45 023:013 > fi
+15:20:45 023:014 > fig
+15:20:46 023:012 > <figcaption></figcaption>
+
+15:20:52 024:016 > H
+15:20:52 024:017 > Hä
+15:20:52 024:018 > Här
+15:20:53 024:020 > Här e
+15:20:54 024:020 > Här eä
+15:20:54 024:021 > Här eär
+15:20:54 024:023 > Här eär e
+15:20:54 024:024 > Här eär en
+15:20:54 024:026 > Här eär en a
+15:20:55 024:027 > Här eär en av
+15:20:55 024:029 > Här eär en av d
+15:20:55 024:030 > Här eär en av de
+15:20:56 024:032 > Här eär en av de f
+15:20:56 024:033 > Här eär en av de fl
+15:20:56 024:034 > Här eär en av de flu
+15:20:56 024:035 > Här eär en av de fluf
+15:20:56 024:036 > Här eär en av de fluff
+15:20:57 024:037 > Här eär en av de fluffi
+15:20:57 024:038 > Här eär en av de fluffig
+15:20:57 024:039 > Här eär en av de fluffiga
+15:20:57 024:041 > Här eär en av de fluffiga v
+15:20:57 024:042 > Här eär en av de fluffiga vä
+15:20:58 024:043 > Här eär en av de fluffiga vän
+15:20:58 024:044 > Här eär en av de fluffiga vänn
+15:20:58 024:045 > Här eär en av de fluffiga vänne
+15:20:58 024:046 > Här eär en av de fluffiga vänner
+15:20:58 024:047 > Här eär en av de fluffiga vännern
+15:20:58 024:048 > Här eär en av de fluffiga vännerna
+15:20:59 024:050 > Här eär en av de fluffiga vännerna n
+15:20:59 024:051 > Här eär en av de fluffiga vännerna ni
+15:21:00 024:053 > Här eär en av de fluffiga vännerna ni k
+15:21:00 024:054 > Här eär en av de fluffiga vännerna ni ka
+15:21:00 024:055 > Här eär en av de fluffiga vännerna ni kan
+15:21:01 024:057 > Här eär en av de fluffiga vännerna ni kan a
+15:21:01 024:058 > Här eär en av de fluffiga vännerna ni kan ad
+15:21:01 024:059 > Här eär en av de fluffiga vännerna ni kan ado
+15:21:01 024:060 > Här eär en av de fluffiga vännerna ni kan adop
+15:21:01 024:061 > Här eär en av de fluffiga vännerna ni kan adopt
+15:21:02 024:062 > Här eär en av de fluffiga vännerna ni kan adopte
+15:21:02 024:063 > Här eär en av de fluffiga vännerna ni kan adopter
+15:21:03 024:064 > Här eär en av de fluffiga vännerna ni kan adoptera
+15:21:56 000:000 > <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kontainer">
+        <h1>Catdoption</h1>
+        <ul class="meny">
+            <li><a class="aktiv" href="index.html">Catdoption</a></li>
+            <li><a href="">Om oss</a></li>
+            <li><a href="">Prislista</a></li>
+            <li><a href="">Katter</a></li>
+        </ul>
+
+        <h2>Vi är ett adoptionscenter för katter i alla åldrar</h2>
+        <p>Vi har massa katter i olika storlekar, raser , färger och åldrar</p>
+
+        <figure>
+            <img src="" alt="">
+            <figcaption>
+                Här är en av de fluffiga vännerna ni kan adoptera
+            </figcaption>
+        </figure>
+    </div> 
+</body>
+</html>
+15:21:56 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+15:21:59 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:22:00 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+15:22:19 013:019 > class="aktiv"
+
+15:22:24 013:039 > i
+15:22:24 013:040 > in
+15:22:24 013:041 > ind
+15:22:24 013:042 > inde
+15:22:25 013:039 > index2.html
+
+15:22:44 018:012 > V
+15:22:44 018:013 > Vå
+15:22:44 018:014 > Vår
+15:22:44 018:015 > Vårt
+15:22:45 018:017 > Vårt f
+15:22:45 018:018 > Vårt fö
+15:22:45 018:019 > Vårt för
+15:22:46 018:020 > Vårt före
+15:22:46 018:021 > Vårt föret
+15:22:46 018:022 > Vårt företa
+15:22:46 018:023 > Vårt företaf
+15:22:47 018:023 > Vårt företafg
+15:22:48 018:025 > Vårt företafg t
+15:22:48 018:025 > Vårt företafg ts
+15:22:49 018:026 > Vårt företafg tst
+15:22:49 018:027 > Vårt företafg tsta
+15:22:49 018:028 > Vårt företafg tstar
+15:22:49 018:029 > Vårt företafg tstart
+15:22:50 018:030 > Vårt företafg tstarta
+15:22:50 018:031 > Vårt företafg tstartad
+15:22:50 018:032 > Vårt företafg tstartade
+15:22:50 018:033 > Vårt företafg tstartade s
+15:22:51 018:035 > Vårt företafg tstartade s i
+15:22:52 018:035 > Vårt företafg tstartade s i  2
+15:22:52 018:036 > Vårt företafg tstartade s i  20
+15:22:52 018:037 > Vårt företafg tstartade s i  201
+15:22:53 018:038 > Vårt företafg tstartade s i  2015
+15:23:04 018:039 > Vårt företafg tstartade s i  2015,
+15:23:05 018:040 > Vårt företafg tstartade s i  2015,  o
+15:23:06 018:041 > Vårt företafg tstartade s i  2015,  oc
+15:23:06 018:042 > Vårt företafg tstartade s i  2015,  ocj
+15:23:06 018:042 > Vårt företafg tstartade s i  2015,  ocj h
+15:23:13 018:044 > Vårt företafg tstartade s i  2015,  ocj h h
+15:23:13 018:045 > Vårt företafg tstartade s i  2015,  ocj h ha
+15:23:13 018:046 > Vårt företafg tstartade s i  2015,  ocj h har
+15:23:14 018:048 > Vårt företafg tstartade s i  2015,  ocj h har a
+15:23:14 018:049 > Vårt företafg tstartade s i  2015,  ocj h har ad
+15:23:14 018:050 > Vårt företafg tstartade s i  2015,  ocj h har ado
+15:23:15 018:051 > Vårt företafg tstartade s i  2015,  ocj h har adop
+15:23:15 018:052 > Vårt företafg tstartade s i  2015,  ocj h har adopt
+15:23:15 018:053 > Vårt företafg tstartade s i  2015,  ocj h har adopte
+15:23:15 018:054 > Vårt företafg tstartade s i  2015,  ocj h har adopter
+15:23:15 018:055 > Vårt företafg tstartade s i  2015,  ocj h har adoptera
+15:23:16 018:056 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t
+15:23:17 018:058 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t v
+15:23:18 018:058 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t vi
+15:23:18 018:059 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viv
+15:23:19 018:060 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t vivä
+15:23:19 018:061 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg
+15:23:21 018:063 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg c
+15:23:21 018:064 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca
+15:23:22 018:066 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3
+15:23:22 018:067 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 30
+15:23:22 018:068 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 300
+15:23:23 018:069 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000
+15:23:23 018:071 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 k
+15:23:23 018:072 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 ka
+15:23:24 018:073 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 kat
+15:23:24 018:074 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 katt
+15:23:24 018:075 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 katte
+15:23:24 018:076 > Vårt företafg tstartade s i  2015,  ocj h har adoptera t viväg ca 3000 katter
+15:23:25 018:071 > Katter
+
+15:23:30 019:011 > l
+15:23:30 019:012 > lo
+15:23:30 019:013 > lor
+15:23:30 019:014 > lore
+15:23:30 019:011 > Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non, facilis repellat quasi omnis quam illo, placeat minus veritatis maiores esse ducimus ad! Modi repellendus fugit molestiae. Voluptate sit sequi dolorem!
+
+15:23:33 022:030 > /
+
+15:23:33 006:043 > /
+
+15:23:33 004:072 > /
+
+15:23:33 003:025 > /
+
+15:24:06 025:006 > p
+15:24:06 025:006 > <p></p>
+
+15:24:08 026:008 > l
+15:24:08 026:009 > lo
+15:24:08 026:010 > lor
+15:24:08 026:011 > lore
+15:24:08 026:012 > lorem
+15:24:09 026:008 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, quasi. Repellendus, nisi, libero sapiente dicta corrupti voluptas, odit fuga facilis sunt rerum magni voluptatum autem quos. Esse corporis fugit doloribus!
+15:24:26 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="kontainer">
+      <h1>Catdoption</h1>
+      <ul class="meny">
+        <li><a href="index.html">Catdoption</a></li>
+        <li><a class="aktiv" href="index2.html">Om oss</a></li>
+        <li><a href="">Prislista</a></li>
+        <li><a href="">Katter</a></li>
+      </ul>
+
+      <h2>Vårt företag startades 2015 och har adopterat iväg ca 3000 Katter</h2>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non, facilis
+        repellat quasi omnis quam illo, placeat minus veritatis maiores esse
+        ducimus ad! Modi repellendus fugit molestiae. Voluptate sit sequi
+        dolorem!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur,
+        quasi. Repellendus, nisi, libero sapiente dicta corrupti voluptas, odit
+        fuga facilis sunt rerum magni voluptatum autem quos. Esse corporis fugit
+        doloribus!
+      </p>
+    </div>
+  </body>
+</html>
+15:24:26 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+15:24:37 014:015 > class="aktiv"
+
+15:24:41 014:035 > i
+15:24:41 014:036 > in
+15:24:41 014:037 > ind
+15:24:41 014:038 > inde
+15:24:43 014:035 > index3.html
+
+15:24:52 018:010 > p
+15:24:52 018:011 > pe
+15:24:53 018:012 > pei
+15:24:53 018:012 > peir
+15:24:53 018:011 > peirr
+15:24:54 018:012 > peirri
+15:24:54 018:013 > peirris
+15:24:54 018:014 > peirrisl
+15:24:54 018:015 > peirrisli
+15:24:55 018:016 > peirrislis
+15:24:55 018:017 > peirrislist
+15:24:55 018:018 > peirrislista
+15:24:55 018:010 > Prislista
+15:24:58 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+15:25:06 018:009 > z
+15:25:07 018:009 > z<
+15:25:08 018:009 > z<>
+15:25:10 018:010 > z<>O
+15:25:10 018:011 > z<>OM
+15:25:11 018:011 > z<>OM m
+15:25:11 018:013 > z<>OM m o
+15:25:11 018:014 > z<>OM m os
+15:25:11 018:015 > z<>OM m oss
+15:25:13 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+
+15:25:21 020:008 > k
+15:25:21 020:009 > ka
+15:25:22 020:010 > kat
+15:25:22 020:011 > katt
+15:25:23 020:012 > kattu
+15:25:23 020:013 > kattun
+15:25:23 020:014 > kattung
+15:25:26 020:015 > kattunga
+15:25:26 020:016 > kattungar
+15:25:32 020:017 > kattungar:
+
+15:25:36 021:008 > B
+15:25:51 021:008 > BB
+15:25:52 021:009 > BBo
+15:25:52 021:010 > BBon
+15:25:52 021:011 > BBond
+15:25:52 021:012 > BBondk
+15:25:52 021:013 > BBondka
+15:25:52 021:014 > BBondkat
+15:25:52 021:015 > BBondkatt
+15:25:53 021:016 > BBondkatt:
+15:26:05 022:000 > </h
+
+15:26:05 022:007 > 2
+
+15:26:08 019:005 > h
+15:26:08 019:006 > h2
+15:26:08 019:005 > <h2></h2>
+
+15:26:17 021:018 > 7
+15:26:17 021:019 > 75
+15:26:18 021:020 > 750
+15:26:18 021:021 > 750k
+15:26:18 021:022 > 750kr
+
+15:26:31 022:008 > R
+15:26:32 022:009 > Ra
+15:26:32 022:010 > Ras
+15:26:32 022:011 > Rask
+15:26:32 022:012 > Raska
+15:26:33 022:013 > Raskat
+15:26:33 022:014 > Raskatt
+
+15:26:36 023:008 > R
+15:26:36 023:009 > Ra
+15:26:36 023:010 > Ras
+15:26:37 023:011 > Rask
+15:26:37 023:012 > Raska
+15:26:37 023:013 > Raskat
+15:26:37 023:014 > Raskatt
+
+15:26:45 022:016 > k
+15:26:45 022:017 > ka
+15:26:45 022:018 > kat
+15:26:45 022:019 > kate
+15:26:46 022:020 > kateg
+15:26:46 022:021 > katego
+15:26:46 022:022 > kategor
+15:26:47 022:023 > kategori
+15:26:48 022:025 > kategori 1
+15:26:49 022:026 > kategori 1:
+15:26:53 022:023 > kategori 1:i
+15:26:54 022:025 > kategori 1:i 1
+15:26:54 022:026 > kategori 1:i 1:
+15:26:55 022:000 > Raskatt kategori 1:
+
+15:26:57 023:025 > 2
+
+15:27:00 022:028 > 1
+15:27:00 022:029 > 15
+15:27:00 022:030 > 150
+15:27:01 022:031 > 1500
+15:27:06 022:028 > 15003
+15:27:06 022:029 > 150035
+
+15:27:09 023:028 > 7
+15:27:09 023:029 > 75
+15:27:09 023:030 > 750
+15:27:09 023:031 > 7500
+15:27:10 023:032 > 7500k
+15:27:11 023:033 > 7500kr
+
+15:27:12 022:032 > k
+15:27:12 022:033 > kr
+
+15:27:15 023:028 > 5
+15:27:33 020:018 > </h2>
+
+15:27:40 022:004 > p
+15:27:40 022:004 > <p></p>
+15:27:46 027:000 > </
+
+15:28:01 027:004 > h
+15:28:01 027:005 > h2
+15:28:01 027:004 > <h2></h2>
+
+15:28:05 028:008 > V
+15:28:06 028:009 > Vu
+15:28:06 028:010 > Vux
+15:28:06 028:011 > Vuxn
+15:28:06 028:012 > Vuxna
+15:28:07 028:014 > Vuxna k
+15:28:07 028:015 > Vuxna ka
+15:28:07 028:016 > Vuxna kat
+15:28:07 028:017 > Vuxna katt
+15:28:07 028:018 > Vuxna katte
+15:28:07 028:019 > Vuxna katter
+15:28:08 028:021 > Vuxna katter 1
+15:28:09 028:022 > Vuxna katter 1-
+15:28:10 028:023 > Vuxna katter 1-1
+15:28:10 028:024 > Vuxna katter 1-15
+15:28:11 028:026 > Vuxna katter 1-15 å
+15:28:11 028:027 > Vuxna katter 1-15 år
+15:28:14 028:022 > Vuxna katter 1-15 år-
+15:28:14 028:023 > Vuxna katter 1-15 år-5
+15:28:15 028:025 > Vuxna katter 1-15 år-5 å
+15:28:15 028:026 > Vuxna katter 1-15 år-5 år
+15:28:24 028:027 > Vuxna katter 1-15 år-5 år:
+
+15:28:25 030:004 > p
+15:28:25 030:004 > <p></p>
+
+15:28:29 031:008 > b
+15:28:29 031:009 > bo
+15:28:29 031:010 > bon
+15:28:30 031:011 > bond
+15:28:30 031:012 > bondk
+15:28:30 031:013 > bondka
+15:28:30 031:014 > bondkat
+15:28:30 031:015 > bondkatt
+
+15:28:33 023:018 > 8
+
+15:28:35 031:016 > :
+15:28:36 031:018 > : 5
+15:28:37 031:019 > : 50
+15:28:37 031:020 > : 500
+
+15:28:40 032:008 > R
+15:28:40 032:009 > Ra
+15:28:40 032:010 > Ras
+15:28:40 032:011 > Rask
+15:28:40 032:012 > Raska
+15:28:41 032:008 > Raskatt
+15:28:41 032:016 >  k
+15:28:41 032:017 >  ka
+15:28:42 032:018 >  kat
+15:28:42 032:016 > kategori
+15:28:43 032:024 > 1
+15:28:44 032:025 > 1 1
+15:28:44 032:026 > 1 1:
+15:28:46 032:000 > Raskatt kategori 1:
+
+15:28:47 033:025 > 2
+
+15:28:51 032:028 > 2
+15:28:51 032:029 > 20
+15:28:51 032:030 > 200
+15:28:52 032:031 > 2000
+
+15:28:55 033:028 > 4
+15:28:55 033:029 > 45
+15:28:55 033:030 > 450
+15:28:55 033:031 > 4500
+
+15:28:58 035:004 > h
+15:28:58 035:005 > h2
+15:28:58 035:004 > <h2></h2>
+
+15:29:00 036:008 > V
+15:29:00 036:009 > Vu
+15:29:01 036:010 > Vuc
+15:29:02 036:010 > Vucx
+15:29:02 036:011 > Vucxn
+15:29:02 036:012 > Vucxna
+15:29:02 036:008 > Vuxna
+15:29:03 036:014 >  k
+15:29:03 036:015 >  ka
+15:29:03 036:016 >  kat
+15:29:04 036:017 >  katt
+15:29:04 036:018 >  katte
+15:29:04 036:019 >  katter
+15:29:07 036:021 >  katter 5
+15:29:08 036:022 >  katter 5-
+15:29:09 036:023 >  katter 5-1
+15:29:09 036:024 >  katter 5-15
+15:29:09 036:026 >  katter 5-15 å
+15:29:09 036:027 >  katter 5-15 år
+15:29:11 036:028 >  katter 5-15 år:
+
+15:29:12 038:004 > p
+15:29:12 038:004 > <p></p>
+
+15:29:18 039:008 > b
+15:29:18 039:009 > bo
+15:29:18 039:010 > bon
+15:29:18 039:011 > bond
+15:29:18 039:012 > bondk
+15:29:18 039:013 > bondka
+15:29:19 039:014 > bondkat
+15:29:19 039:015 > bondkatt
+15:29:19 039:008 > bondkatt
+15:29:20 039:016 > :
+15:29:23 039:018 > : 2
+15:29:23 039:019 > : 25
+15:29:23 039:020 > : 250
+15:29:24 039:021 > : 250k
+15:29:24 039:022 > : 250kr
+
+15:29:26 040:008 > r
+15:29:26 040:009 > ra
+15:29:26 040:010 > ras
+15:29:26 040:008 > Raskatt
+15:29:27 040:016 >  k
+15:29:27 040:017 >  ka
+15:29:28 040:018 >  kat
+15:29:28 040:016 > kategori
+15:29:29 040:025 >  1
+15:29:30 040:026 >  1:
+15:29:31 040:000 > Raskatt kategori 1:
+
+15:29:32 041:025 > 2
+
+15:29:36 032:028 > 3
+
+15:29:38 040:027 > 2
+15:29:38 040:028 > 22
+15:29:38 040:029 > 220
+15:29:39 040:030 > 2200
+
+15:29:43 041:028 > 3
+15:29:44 041:029 > 35
+15:29:44 041:030 > 350
+15:29:44 041:031 > 3500
+15:29:45 041:033 > 3500 k
+15:29:45 041:034 > 3500 kr
+
+15:29:47 040:033 > k
+15:29:47 040:034 > kr
+
+15:29:49 033:033 > k
+15:29:49 033:034 > kr
+
+15:29:51 032:033 > k
+15:29:51 032:034 > kr
+
+15:30:30 036:021 > 8
+
+15:30:33 028:023 > 8
+15:31:57 000:000 > <!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="kontainer">
+      <h1>Catdoption</h1>
+      <ul class="meny">
+        <li><a href="index.html">Catdoption</a></li>
+        <li><a href="index2.html">Om oss</a></li>
+        <li><a class="aktiv" href="index3.html">Prislista</a></li>
+        <li><a href="">Katter</a></li>
+      </ul>
+
+      <h2>Prislista</h2>
+     <h2> 
+        kattungar:
+    </h2>
+    <p>
+        Bondkatt: 850kr
+        Raskatt kategori 1: 3500 kr
+        Raskatt kategori 2: 5500 kr
+    </p>
+    <h2>
+        Vuxna katter 1-8 år:
+    </h2>
+    <p>
+        bondkatt: 500
+        Raskatt kategori 1: 3000 kr
+        Raskatt kategori 2: 4500 kr
+    </p>
+    <h2>
+        Vuxna katter 8-15 år:
+    </h2>
+    <p>
+        bondkatt: 250kr
+        Raskatt kategori 1: 2200 kr
+        Raskatt kategori 2: 3500 kr
+    </p>
+    </div>
+  </body>
+</html>
+15:31:57 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:32:05 015:000 > <li><a  href="">Katter</a></li>
+15:32:08 015:000 > <li><a  href="">Katter</a></li>
+15:32:09 014:015 > class="aktiv"
+15:32:14 015:015 > class="aktiv"
+
+15:32:36 018:006 > h
+15:32:36 018:007 > h2
+15:32:36 018:006 > <h2></h2>
+15:32:38 018:010 > V
+15:32:38 018:011 > Vå
+15:32:38 018:012 > Vår
+15:32:38 018:013 > Våra
+15:32:39 018:015 > Våra k
+15:32:39 018:016 > Våra ka
+15:32:39 018:017 > Våra kat
+15:32:39 018:018 > Våra katt
+15:32:39 018:019 > Våra katte
+15:32:39 018:020 > Våra katter
+
+15:33:30 015:035 > i
+15:33:32 015:035 > index4.html
+15:34:26 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+
+15:34:53 013:025 > i
+15:34:53 013:026 > in
+15:34:55 013:025 > index2.html
+
+15:34:57 014:025 > i
+15:34:57 014:026 > in
+15:34:57 014:027 > ind
+15:34:59 014:025 > index3.html
+
+15:35:01 015:025 > i
+15:35:01 015:026 > in
+15:35:02 015:025 > index4.html
+15:35:40 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+
+15:35:44 014:021 > i
+15:35:44 014:022 > in
+15:35:46 014:021 > index3.html
+
+15:35:47 015:021 > i
+15:35:47 015:022 > in
+15:35:49 015:021 > index4.html
+15:35:50 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+15:35:53 015:021 > i
+15:35:53 015:022 > in
+15:35:54 015:023 > ind
+15:35:55 015:021 > index4.html
+15:35:57 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:36:00 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:36:43 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:37:19 011:000 > u
+15:37:19 011:001 > ul
+15:37:20 011:000 > ul
+15:37:21 011:002 > {}
+15:37:29 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\webb-1-Simpis69\kapitel4\FavoritBand\style.css
+----------------------------------------
+15:37:32 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:37:35 012:003 > m
+15:37:35 012:004 > ma
+15:37:35 012:005 > mat
+15:37:36 012:005 > matr
+15:37:36 012:006 > matrg
+15:37:36 012:007 > matrgi
+15:37:36 012:008 > matrgin
+15:37:37 012:003 > margin: ;
+15:37:37 012:011 > 0
+
+15:37:52 014:000 > .
+15:37:52 014:001 > .k
+15:37:52 014:002 > .ko
+15:37:53 014:003 > .kon
+15:37:53 014:004 > .kont
+15:37:53 014:005 > .konta
+15:37:53 014:006 > .kontai
+15:37:53 014:007 > .kontain
+15:37:53 014:008 > .kontaine
+15:37:53 014:009 > .kontainer
+15:37:54 014:010 > {}
+
+15:37:59 017:000 > k
+15:37:59 017:001 > ko
+15:38:00 017:000 > kok
+15:38:00 017:001 > koko
+15:38:00 017:000 > .kontainer
+15:38:01 017:011 >  h
+15:38:02 017:012 >  h1
+15:38:03 017:013 > {}
+
+15:38:12 015:004 > w
+15:38:12 015:005 > wi
+15:38:12 015:006 > wit
+15:38:12 015:006 > witd
+15:38:13 015:004 > width: ;
+15:38:15 015:011 > 1
+15:38:15 015:012 > 10
+15:38:15 015:013 > 100
+15:38:16 015:014 > 100p
+15:38:16 015:015 > 100px
+15:38:18 015:014 > 100px0
+
+15:38:19 016:004 > '
+15:38:21 016:004 > 'm
+15:38:21 016:005 > 'ma
+15:38:21 016:006 > 'mar
+15:38:21 016:007 > 'marg
+15:38:21 016:008 > 'margi
+15:38:21 016:009 > 'margin
+15:38:23 016:010 > 'margina
+15:38:23 016:011 > 'marginau
+15:38:23 016:012 > 'marginaut
+15:38:31 016:004 > margin-top: ;
+15:38:34 016:012 >  a
+15:38:35 016:013 >  au
+15:38:35 016:014 >  aut
+15:38:35 016:012 > auto
+
+15:38:41 017:004 > a
+15:38:42 017:004 > ap
+15:38:42 017:005 > apa
+15:38:42 017:006 > apad
+15:38:43 017:004 > padding: ;
+15:38:44 017:013 > 5
+15:38:44 017:014 > 50
+15:38:44 017:015 > 50p
+15:38:45 017:016 > 50px
+
+15:38:47 018:004 > b
+15:38:48 018:005 > bg
+15:38:48 018:006 > bgc
+15:38:49 018:004 > background-color: #fff;
+15:38:51 018:022 > g
+15:38:51 018:023 > gr
+15:38:51 018:024 > gra
+15:38:51 018:025 > gray
+
+15:38:59 021:004 > f
+15:38:59 021:005 > fo
+15:38:59 021:006 > fon
+15:38:59 021:007 > font
+15:39:00 021:004 > font-size: ;
+15:39:03 021:015 > 5
+15:39:04 021:016 > 50
+15:39:04 021:017 > 50p
+15:39:05 021:018 > 50px
+15:39:07 021:015 > 50px7
+
+15:39:23 000:000 > c
+15:39:23 000:001 > co
+15:39:24 000:002 > com
+15:39:24 000:003 > comm
+15:39:24 000:004 > commi
+15:39:24 000:005 > commit
+15:39:25 000:007 > commit e
+15:39:25 000:008 > commit ef
+15:39:25 000:009 > commit eft
+15:39:25 000:010 > commit efte
+15:39:25 000:011 > commit efter
+15:39:26 000:013 > commit efter h
+15:39:26 000:014 > commit efter ht
+15:39:26 000:015 > commit efter htm
+15:39:26 000:016 > commit efter html
+15:39:27 000:018 > commit efter html ä
+15:39:27 000:019 > commit efter html är
+15:39:28 000:021 > commit efter html är t
+15:39:29 000:022 > commit efter html är ty
+15:39:29 000:023 > commit efter html är typ
+15:39:29 000:025 > commit efter html är typ k
+15:39:29 000:026 > commit efter html är typ kl
+15:39:29 000:027 > commit efter html är typ kla
+15:39:29 000:028 > commit efter html är typ klar
+15:39:31 000:029 > commit efter html är typ klar ,
+15:39:31 000:031 > commit efter html är typ klar , b
+15:39:31 000:032 > commit efter html är typ klar , bö
+15:39:31 000:033 > commit efter html är typ klar , bör
+15:39:32 000:034 > commit efter html är typ klar , börj
+15:39:32 000:035 > commit efter html är typ klar , börja
+15:39:32 000:036 > commit efter html är typ klar , börjar
+15:39:33 000:038 > commit efter html är typ klar , börjar p
+15:39:33 000:039 > commit efter html är typ klar , börjar på
+15:39:33 000:041 > commit efter html är typ klar , börjar på c
+15:39:33 000:042 > commit efter html är typ klar , börjar på cs
+15:39:33 000:043 > commit efter html är typ klar , börjar på css
+15:39:40 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+ul{
+   margin: 0; 
+}
+.kontainer{
+    width: 1000px;
+    margin: auto ;
+    padding: 50px;
+    background-color: gray;
+}
+.kontainer h1{
+    font-size: 70px;
+    
+}
+
+15:39:58 022:004 > f
+15:39:58 022:005 > fo
+15:39:58 022:006 > fon
+15:40:00 022:004 > font-weight: ;
+15:40:01 022:017 > 4
+15:40:01 022:018 > 40
+15:40:02 022:019 > 400
+15:40:03 022:021 > 400¨
+
+15:40:08 023:004 > o
+15:40:08 023:004 > oc
+15:40:08 023:005 > oco
+15:40:08 023:006 > ocol
+15:40:08 023:007 > ocolo
+15:40:09 023:008 > ocolor
+15:40:09 023:004 > color: ;
+15:40:10 023:011 > b
+15:40:10 023:012 > bl
+15:40:10 023:013 > bla
+15:40:10 023:014 > blac
+15:40:11 023:015 > black
+
+15:40:14 024:004 > t
+15:40:14 024:005 > te
+15:40:14 024:006 > tex
+15:40:14 024:007 > text
+15:40:15 024:004 > text-align: ;
+15:40:15 024:016 > c
+15:40:15 024:017 > ce
+15:40:16 024:018 > cen
+15:40:16 024:019 > cent
+15:40:16 024:020 > cente
+15:40:16 024:021 > center
+15:40:24 027:000 > /*  */
+
+15:40:25 027:003 > M
+15:40:25 027:004 > ME
+15:40:25 027:005 > MEN
+15:40:25 027:006 > MENY
+15:40:27 027:005 > MENYN
+15:40:27 027:006 > MENYNY
+
+15:40:57 000:000 > k
+15:40:57 000:001 > ko
+15:40:57 000:002 > kon
+15:40:57 000:003 > kont
+15:40:57 000:004 > konta
+15:40:58 000:005 > kontai
+15:40:58 000:006 > kontain
+15:40:58 000:007 > kontaine
+15:40:58 000:008 > kontainer
+15:40:59 000:010 > kontainer o
+15:40:59 000:011 > kontainer oc
+15:41:00 000:012 > kontainer och
+15:41:00 000:014 > kontainer och k
+15:41:00 000:015 > kontainer och ko
+15:41:00 000:016 > kontainer och kon
+15:41:00 000:017 > kontainer och kont
+15:41:01 000:018 > kontainer och konta
+15:41:01 000:019 > kontainer och kontai
+15:41:01 000:020 > kontainer och kontain
+15:41:01 000:021 > kontainer och kontaine
+15:41:01 000:022 > kontainer och kontainer
+15:41:01 000:024 > kontainer och kontainer h
+15:41:01 000:025 > kontainer och kontainer h1
+15:41:07 022:000 > font-weight: 400;
+    color: black;
+    text-align: center;
+15:41:34 027:000 > /*  */
+
+15:41:34 027:003 > m
+15:41:34 027:004 > me
+15:41:34 027:005 > men
+15:41:34 027:006 > meny
+
+15:41:39 029:000 > .
+15:41:39 029:001 > .k
+15:41:39 029:002 > .ko
+15:41:39 029:000 > .kontainer
+15:41:40 029:011 >  .
+15:41:40 029:012 >  .m
+15:41:40 029:013 >  .me
+15:41:40 029:014 >  .men
+15:41:40 029:015 >  .meny
+15:41:42 029:016 > {}
+
+15:41:44 030:004 > d
+15:41:44 030:006 > dip
+15:41:44 030:005 > di
+15:41:45 030:007 > dipl
+15:41:45 030:008 > dipla
+15:41:45 030:004 > display: ;
+15:41:46 030:013 > f
+15:41:46 030:014 > fl
+15:41:46 030:015 > fle
+15:41:46 030:013 > flex
+
+15:41:48 031:004 > g
+15:41:49 031:006 > gap
+15:41:49 031:005 > ga
+15:41:49 031:004 > gap: ;
+15:41:50 031:009 > 1
+15:41:50 031:010 > 10
+15:41:51 031:011 > 10p
+15:41:51 031:012 > 10px
+
+15:41:54 032:004 > j
+15:41:54 032:005 > ju
+15:41:54 032:006 > jus
+15:41:54 032:007 > just
+15:41:55 032:004 > justify-content: ;
+15:41:56 032:021 > c
+15:41:56 032:022 > cn
+15:41:57 032:021 > center
+
+15:42:00 034:000 > .
+15:42:01 034:000 > .kontainer
+15:42:02 034:011 >  .
+15:42:02 034:011 > .kontainer
+15:42:03 034:022 >  l
+15:42:04 034:023 >  li
+15:42:04 034:024 > {}
+
+15:42:11 035:004 > l
+15:42:11 035:005 > li
+15:42:11 035:006 > lis
+15:42:11 035:007 > list
+15:42:14 035:004 > list-style-type: disc;
+15:42:15 035:021 > n
+15:42:15 035:022 > no
+15:42:15 035:023 > non
+15:42:15 035:024 > none
+
+15:42:20 037:000 > .
+15:42:20 037:000 > .kontainer
+15:42:22 037:011 >  .
+15:42:23 037:011 > .meny
+15:42:25 037:017 >  l
+15:42:25 037:018 >  li
+15:42:26 037:020 >  li a
+15:42:27 037:021 > {}
+
+15:42:30 038:004 > t
+15:42:30 038:005 > te
+15:42:30 038:006 > tex
+15:42:31 038:004 > text-decoration: ;
+15:42:31 038:021 > n
+15:42:31 038:022 > no
+15:42:32 038:023 > non
+15:42:32 038:024 > none
+
+15:43:09 039:004 > p
+15:43:09 039:005 > pa
+15:43:10 039:006 > pad
+15:43:10 039:007 > padd
+15:43:11 039:004 > padding: ;
+15:43:12 039:013 > 5
+15:43:12 039:014 > 5p
+15:43:12 039:015 > 5px
+
+15:43:14 040:004 > c
+15:43:14 040:005 > co
+15:43:14 040:006 > col
+15:43:14 040:007 > colr
+15:43:15 040:007 > colro
+15:43:15 040:008 > colror
+15:43:25 040:004 > color: ;
+15:43:27 040:011 > b
+15:43:27 040:012 > bl
+15:43:27 040:013 > bla
+15:43:27 040:014 > blac
+15:43:27 040:015 > black
+
+15:43:30 041:004 > w
+15:43:30 041:005 > wi
+15:43:30 041:006 > wid
+15:43:30 041:004 > width: ;
+15:43:33 041:011 > 1
+15:43:33 041:012 > 15
+15:43:33 041:013 > 150
+15:43:34 041:014 > 150p
+15:43:34 041:015 > 150px
+
+15:43:36 042:004 > t
+15:43:36 042:005 > te
+15:43:36 042:006 > tec
+15:43:38 042:006 > tecx
+15:43:38 042:007 > tecxt
+15:43:39 042:004 > text-align: ;
+15:43:39 042:016 > c
+15:43:39 042:017 > ce
+15:43:39 042:018 > cen
+15:43:39 042:019 > cent
+15:43:40 042:020 > cente
+15:43:40 042:021 > center
+
+15:43:43 043:004 > f
+15:43:43 043:005 > fo
+15:43:43 043:006 > fon
+15:43:43 043:007 > font
+15:43:45 043:004 > font-size: ;
+15:43:48 043:015 > 2
+15:43:48 043:016 > 25
+15:43:49 043:017 > 25p
+15:43:49 043:018 > 25px
+15:43:49 043:015 > 25px
+
+15:43:52 044:004 > f
+15:43:52 044:005 > fo
+15:43:52 044:006 > fon
+15:43:52 044:007 > font
+
+15:44:11 000:000 > C
+15:44:11 000:001 > Cs
+15:44:11 000:002 > Css
+15:44:12 000:004 > Css f
+15:44:12 000:005 > Css fö
+15:44:12 000:006 > Css för
+15:44:13 000:008 > Css för m
+15:44:13 000:009 > Css för me
+15:44:14 000:010 > Css för men
+15:44:14 000:011 > Css för meny
+15:44:14 000:012 > Css för menyn
+15:44:26 025:001 > /* meny */
+
+.kontainer .meny{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.kontainer .kontainer li{
+    list-style-type: none;
+}
+.kontainer .meny li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+15:44:33 045:001 > /*  */
+
+15:44:34 045:004 > i
+15:44:35 045:005 > in
+15:44:35 045:006 > inn
+15:44:35 045:007 > inne
+15:44:35 045:008 > inneh
+15:44:35 045:009 > innehå
+15:44:36 045:010 > innehål
+15:44:36 045:011 > innehåll
+15:44:36 045:012 > innehålle
+15:44:36 045:013 > innehållet
+
+15:44:44 048:000 > .
+15:44:44 048:000 > .kontainer
+15:44:46 048:011 >  h
+15:44:46 048:012 >  h2
+15:44:47 048:013 > {}
+
+15:44:57 049:004 > t
+15:44:57 049:006 > tex
+15:44:57 049:005 > te
+15:44:59 049:007 > text
+15:44:59 049:008 > texts
+15:44:59 049:009 > textsi
+15:45:03 049:004 > textsif
+15:45:03 049:005 > textsifo
+15:45:03 049:006 > textsifon
+15:45:04 049:007 > textsifont
+15:45:04 049:008 > textsifonts
+15:45:04 049:009 > textsifontsi
+15:45:05 049:004 > font-size: ;
+15:45:07 049:015 > 3
+15:45:07 049:016 > 35
+15:45:08 049:017 > 35p
+15:45:08 049:018 > 35px
+
+15:45:10 050:004 > c
+15:45:10 050:005 > co
+15:45:10 050:006 > col
+15:45:10 050:007 > colo
+15:45:10 050:008 > color
+15:45:11 050:004 > color: ;
+15:45:12 050:011 > b
+15:45:12 050:012 > bl
+15:45:12 050:013 > bla
+15:45:13 050:014 > blak
+15:45:13 050:015 > blakc
+15:45:13 050:011 > black
+15:45:20 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:45:32 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+15:45:33 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:45:50 052:000 > k
+15:45:50 052:001 > ko
+15:45:50 052:002 > kon
+15:45:50 052:000 > .kontainer
+15:45:52 052:011 >  f
+15:45:52 052:012 >  fi
+15:45:52 052:013 >  fig
+15:45:53 052:014 >  figu
+15:45:53 052:015 >  figur
+15:45:53 052:016 >  figure
+15:45:53 052:018 >  figure i
+15:45:53 052:019 >  figure im
+15:45:54 052:020 >  figure img
+15:45:55 052:021 > {}
+
+15:45:58 053:004 > w
+15:45:58 053:005 > wi
+15:45:59 053:006 > wid
+15:45:59 053:007 > widh
+15:45:59 053:008 > widht
+15:46:00 053:004 > width: ;
+15:46:06 053:011 > auto
+
+15:46:15 055:000 > k
+15:46:15 055:001 > ko
+15:46:15 055:002 > kon
+15:46:16 055:000 > .kontainer
+15:46:17 055:011 >  p
+15:46:18 055:012 > {}
+
+15:46:19 056:004 > f
+15:46:20 056:005 > fo
+15:46:20 056:006 > fon
+15:46:20 056:007 > font
+15:46:21 056:008 > fonts
+15:46:21 056:009 > fontsi
+15:46:22 056:004 > font-size: ;
+15:46:26 056:015 > 2
+15:46:26 056:016 > 25
+15:46:27 056:017 > 25p
+15:46:27 056:018 > 25px
+
+15:46:31 057:004 > m
+15:46:31 057:006 > mar
+15:46:31 057:005 > ma
+15:46:31 057:007 > marg
+15:46:31 057:008 > margi
+15:46:31 057:009 > margin
+15:46:32 057:004 > margin: ;
+15:46:32 057:012 > t
+15:46:32 057:013 > to
+15:46:33 057:014 > top
+15:46:35 057:010 > top-
+15:46:36 057:011 > top-t
+15:46:36 057:012 > top-to
+15:46:36 057:013 > top-top
+15:46:38 057:016 > top-top 2
+15:46:38 057:017 > top-top 20
+15:46:38 057:018 > top-top 20p
+15:46:38 057:019 > top-top 20px
+
+15:46:40 058:004 > m
+15:46:40 058:005 > ma
+15:46:40 058:006 > mar
+15:46:40 058:007 > marg
+15:46:40 058:008 > margi
+15:46:40 058:009 > margin
+15:46:41 058:010 > marginb
+15:46:41 058:011 > marginbo
+15:46:42 058:004 > margin-bottom: ;
+15:46:43 058:019 > 2
+15:46:43 058:020 > 20
+15:46:43 058:021 > 20p
+15:46:43 058:022 > 20px
+
+15:47:03 031:009 > 3
+
+15:47:15 033:004 > t
+15:47:15 033:005 > te
+15:47:15 033:006 > tex
+15:47:15 033:007 > text
+15:47:17 033:004 > textd
+15:47:17 033:005 > textde
+15:47:17 033:006 > textdec
+15:47:17 033:007 > textdeco
+15:47:19 033:004 > text-decoration: ;
+15:47:20 033:021 > n
+15:47:20 033:022 > no
+15:47:21 033:023 > non
+15:47:21 033:024 > none
+15:47:21 033:021 > none
+15:48:35 033:004 > l
+15:48:35 033:005 > li
+15:48:35 033:006 > lis
+15:48:38 033:004 > list-style-type: ;
+15:49:08 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:49:15 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:49:30 034:022 > u
+15:49:30 034:023 > ul
+15:49:35 034:022 > li
+15:49:38 035:026 > */
+15:49:38 034:000 > /*
+15:49:59 034:000 > k
+15:49:59 034:001 > ko
+15:49:59 034:002 > kon
+15:49:59 034:000 > .kontainer
+15:50:00 034:011 >  .
+15:50:02 034:012 >  .m
+15:50:02 034:011 > .meny
+15:50:04 034:017 >  u
+15:50:04 034:018 >  ul
+15:50:05 034:019 > {}
+
+15:50:06 035:004 > l
+15:50:07 035:005 > li
+15:50:07 035:006 > lis
+15:50:07 035:007 > list
+15:50:10 035:004 > list-style-type: ;
+15:50:10 035:021 > n
+15:50:10 035:022 > no
+15:50:11 035:023 > non
+15:50:11 035:024 > none
+15:50:25 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:51:25 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:51:36 033:004 > l
+15:51:36 033:005 > li
+15:51:36 033:006 > lis
+15:51:37 033:007 > list
+15:51:38 033:004 > list-style-type: disc;
+15:51:39 033:021 > n
+15:51:39 033:022 > no
+15:51:39 033:023 > non
+15:51:40 033:021 > none
+
+15:51:55 000:000 > u
+15:51:55 000:001 > up
+15:51:56 000:002 > upp
+15:51:56 000:003 > uppd
+15:51:56 000:004 > uppda
+15:51:56 000:005 > uppdat
+15:51:56 000:006 > uppdate
+15:51:56 000:007 > uppdater
+15:51:56 000:008 > uppdatera
+15:51:57 000:009 > uppdaterad
+15:51:57 000:010 > uppdaterade
+15:51:58 000:012 > uppdaterade c
+15:51:58 000:013 > uppdaterade cs
+15:51:58 000:014 > uppdaterade css
+15:51:59 000:016 > uppdaterade css f
+15:51:59 000:017 > uppdaterade css fö
+15:51:59 000:018 > uppdaterade css för
+15:51:59 000:020 > uppdaterade css för m
+15:51:59 000:021 > uppdaterade css för me
+15:51:59 000:022 > uppdaterade css för men
+15:52:00 000:023 > uppdaterade css för meny
+15:52:06 030:018 > gap: 30px;
+    justify-content: center;
+    list-style-type: none;
+}
+.kontainer .kontainer li{
+    list-style-type: none;
+}
+.kontainer .meny li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+ 
+/* innehållet */
+
+.kontainer h2{
+    font-size: 35px;
+    color: black;
+}
+.kontainer figure img{
+    width: auto;
+}
+.kontainer p{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+15:52:27 021:004 > p
+15:52:27 021:005 > pa
+15:52:27 021:006 > pad
+15:52:29 021:004 > padding: ;
+15:52:32 021:013 > 3
+15:52:32 021:014 > 30
+15:52:33 021:015 > 30p
+15:52:33 021:016 > 30px
+15:52:37 021:013 > 30px2
+15:52:37 021:014 > 30px25
+
+15:52:57 035:004 > p
+15:52:57 035:005 > pa
+15:52:57 035:006 > pad
+15:52:57 035:007 > padd
+15:52:59 035:004 > padding-bottom: ;
+15:53:00 035:020 > 2
+15:53:00 035:021 > 20
+15:53:01 035:022 > 20p
+15:53:01 035:023 > 20px
+
+15:53:22 054:004 > t
+15:53:22 054:005 > te
+15:53:23 054:006 > tex
+15:53:23 054:007 > text
+15:53:23 054:004 > text-align: ;
+15:53:24 054:016 > c
+15:53:24 054:017 > ce
+15:53:24 054:018 > cen
+15:53:24 054:019 > cent
+15:53:25 054:020 > cente
+15:53:25 054:021 > center
+15:53:29 054:004 > text
+15:53:35 054:004 > t
+15:53:36 054:005 > te
+15:53:36 054:006 > tec
+15:53:38 054:006 > tecx
+15:53:38 054:007 > tecxt
+15:53:39 054:004 > text-align: ;
+15:53:40 054:016 > c
+15:53:40 054:017 > ce
+15:53:41 054:016 > center
+
+15:53:50 063:004 > t
+15:53:50 063:005 > te
+15:53:50 063:006 > tex
+15:53:51 063:004 > text-align: ;
+15:53:52 063:016 > c
+15:53:52 063:017 > ce
+15:53:52 063:018 > cen
+15:53:52 063:019 > cent
+15:53:52 063:020 > cente
+15:53:52 063:021 > center
+
+15:53:58 065:000 > .
+15:53:58 065:001 > .k
+15:53:58 065:002 > .ko
+15:53:58 065:003 > .kon
+15:53:59 065:000 > .kontainer
+15:54:00 065:011 >  f
+15:54:01 065:012 >  fi
+15:54:01 065:013 >  fig
+15:54:01 065:014 >  figa
+15:54:01 065:014 >  figac
+15:54:02 065:015 >  figaca
+15:54:02 065:011 > figcaption
+15:54:03 065:021 > []
+15:54:04 065:021 > {}
+
+15:54:06 066:004 > t
+15:54:06 066:005 > te
+15:54:06 066:006 > tex
+15:54:07 066:007 > text
+15:54:09 066:004 > text-align: ;
+15:54:09 066:016 > c
+15:54:09 066:017 > ce
+15:54:09 066:018 > cet
+15:54:10 066:018 > cetn
+15:54:10 066:019 > cetnt
+15:54:10 066:020 > cetnte
+15:54:10 066:021 > cetnter
+
+15:54:17 062:019 > 1
+
+15:54:35 061:017 > 5
+15:54:49 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:54:53 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+
+15:54:55 023:024 > b
+15:54:55 023:025 > br
+15:54:56 023:024 > <br>
+
+15:54:57 024:036 > b
+15:54:58 024:037 > br
+15:54:58 024:036 > <br>
+
+15:55:20 031:022 > b
+15:55:20 031:023 > br
+15:55:20 031:022 > <br>
+
+15:55:22 032:036 > b
+15:55:22 032:037 > br
+15:55:22 032:036 > <br>
+
+15:55:25 039:024 > b
+15:55:25 039:025 > br
+15:55:25 039:024 > <br>
+
+15:55:27 040:036 > b
+15:55:27 040:037 > br
+15:55:27 040:036 > <br>
+15:56:58 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+
+15:57:03 022:022 > .
+15:57:03 022:023 > ./
+15:57:04 022:024 > ./b
+15:57:04 022:025 > ./bi
+15:57:04 022:024 > bilder/
+15:57:05 022:031 > sloop.jpg
+15:57:14 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:57:21 058:004 > a
+15:57:21 058:005 > al
+15:57:21 058:006 > ali
+15:57:21 058:007 > alig
+15:57:24 058:004 > aligi
+15:57:25 058:006 > aligimg
+15:57:25 058:005 > aligim
+15:57:30 058:004 > aligimgc
+15:57:30 058:005 > aligimgce
+15:57:30 058:006 > aligimgcen
+15:57:30 058:007 > aligimgcent
+15:57:31 058:008 > aligimgcente
+15:57:31 058:009 > aligimgcenter
+15:57:34 058:004 > aligimgcentera
+15:57:34 058:005 > aligimgcenteral
+15:57:34 058:006 > aligimgcenterali
+15:57:34 058:007 > aligimgcenteralig
+15:57:34 058:008 > aligimgcenteralign
+15:57:35 058:004 > align-items: ;
+15:57:36 058:017 > n
+15:57:36 058:018 > ne
+15:57:36 058:019 > nec
+15:57:37 058:017 > necc
+15:57:37 058:018 > necce
+15:57:37 058:019 > neccen
+15:57:37 058:020 > neccent
+15:57:37 058:021 > neccente
+15:57:37 058:022 > neccenter
+15:57:41 058:017 > nec
+15:57:41 058:004 > align
+15:58:19 058:004 > t
+15:58:19 058:005 > te
+15:58:19 058:006 > tex
+15:58:20 058:007 > text
+15:58:20 058:004 > text-align: ;
+15:58:21 058:016 > c
+15:58:21 058:017 > ce
+15:58:21 058:018 > cen
+15:58:21 058:019 > cent
+15:58:21 058:020 > cente
+15:58:21 058:021 > center
+15:58:30 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+15:58:33 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:58:34 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:58:44 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+15:58:45 058:004 > text
+15:58:51 058:004 > m
+15:58:52 058:005 > ma
+15:58:52 058:006 > mar
+15:58:52 058:007 > marg
+15:58:52 058:008 > margi
+15:58:52 058:009 > margin
+15:58:55 058:010 > margin :
+15:58:55 058:012 > margin : a
+15:58:56 058:013 > margin : au
+15:58:56 058:014 > margin : aut
+15:58:56 058:012 > auto
+15:58:56 058:016 > ;
+
+15:59:10 056:000 > .
+15:59:10 056:000 > .kontainer
+15:59:11 056:011 >  f
+15:59:11 056:012 >  fi
+15:59:12 056:013 >  fig
+15:59:13 056:011 > figure
+15:59:14 056:017 > {}
+
+15:59:15 057:004 > t
+15:59:15 057:005 > te
+15:59:17 057:004 > text-align: ;
+15:59:17 057:016 > c
+15:59:17 057:017 > ce
+15:59:17 057:018 > cen
+15:59:17 057:019 > cent
+15:59:17 057:020 > cente
+15:59:17 057:021 > center
+
+15:59:24 061:004 > b
+15:59:25 061:005 > bo
+15:59:25 061:006 > bor
+15:59:25 061:007 > bord
+15:59:25 061:008 > borde
+15:59:25 061:009 > border
+15:59:26 061:004 > border-radius: ;
+15:59:28 061:019 > 2
+15:59:28 061:020 > 20
+15:59:29 061:019 > 201
+15:59:29 061:020 > 2010
+15:59:30 061:021 > 2010p
+15:59:30 061:022 > 2010px
+15:59:36 061:004 > 2010pxb
+15:59:36 061:005 > 2010pxbo
+15:59:37 061:006 > 2010pxbor
+15:59:37 061:007 > 2010pxbord
+15:59:37 061:008 > 2010pxborde
+15:59:37 061:009 > 2010pxborder
+15:59:38 061:010 > 2010pxborderc
+15:59:38 061:004 > border-color: ;
+15:59:41 061:018 > B
+15:59:41 061:019 > BL
+15:59:41 061:020 > BLA
+15:59:41 061:018 > black
+15:59:45 061:018 > BLA
+15:59:46 061:004 > borderc
+15:59:48 061:019 > 10px
+
+16:00:11 062:004 > B
+16:00:11 062:005 > BG
+16:00:11 062:006 > BGC
+16:00:13 062:004 > background-color: ;
+16:00:15 062:022 > b
+16:00:15 062:023 > bl
+16:00:15 062:022 > black
+16:00:18 062:022 > bl
+16:00:19 062:004 > BGC
+16:00:46 062:004 > b
+16:00:46 062:005 > br
+16:00:47 062:005 > bro
+16:00:47 062:006 > bror
+16:00:47 062:007 > brord
+16:00:47 062:008 > brorde
+16:00:47 062:009 > brorder
+16:00:47 062:004 > border: ;
+16:00:51 062:012 > 3
+16:00:51 062:013 > 3p
+16:00:51 062:014 > 3px
+16:00:53 062:016 > 3px s
+16:00:53 062:017 > 3px so
+16:00:54 062:018 > 3px sol
+16:00:54 062:019 > 3px soli
+16:00:54 062:020 > 3px solid
+16:00:55 062:022 > 3px solid b
+16:00:55 062:023 > 3px solid bl
+16:00:55 062:024 > 3px solid bla
+16:00:55 062:025 > 3px solid blac
+16:00:55 062:026 > 3px solid black
+16:00:55 062:022 > black
+16:01:24 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+16:01:34 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+
+16:01:38 020:006 > f
+16:01:38 020:007 > fi
+16:01:38 020:008 > fig
+16:01:40 020:006 > <figure></figure>
+16:01:44 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+16:01:49 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+16:01:54 020:006 > fig
+
+16:01:55 015:035 > i
+16:01:57 015:035 > index4.html
+16:02:00 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+16:02:06 000:000 > c
+16:02:06 000:001 > ca
+16:02:06 000:002 > cas
+16:02:07 000:001 > cass
+16:02:07 000:002 > casss
+16:02:16 022:000 > <img src="./bilder/sloop.jpg" alt="">
+16:02:16 021:000 > padding: 25px;
+    font-size: 70px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+
+/* meny */
+
+.kontainer .meny{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+.kontainer .kontainer li{
+    list-style-type: none;
+}
+.kontainer .meny li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+ 
+/* innehållet */
+
+.kontainer h2{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+}
+.kontainer figure{
+    text-align: center;
+}
+.kontainer figure img{
+    width: auto;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.kontainer p{
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+}
+.kontainer figcaption{
+    text-align: center;
+
+16:02:56 014:000 > b
+16:02:56 014:001 > bo
+16:02:56 014:002 > bod
+16:02:56 014:003 > body
+16:02:57 014:004 > {}
+
+16:02:59 015:004 > b
+16:02:59 015:005 > bl
+16:03:00 015:006 > blu
+16:03:00 015:007 > blue
+16:03:03 015:004 > blueb
+16:03:04 015:005 > bluebg
+16:03:04 015:006 > bluebgc
+16:03:04 015:004 > background-color: #fff;
+16:03:06 015:022 > b
+16:03:06 015:023 > bl
+16:03:06 015:024 > blu
+16:03:06 015:025 > blue
+16:03:14 015:022 > blueg
+16:03:14 015:023 > bluegr
+16:03:14 015:024 > bluegra
+16:03:14 015:025 > bluegray
+
+16:03:19 021:022 > d
+16:03:19 021:023 > da
+16:03:19 021:024 > dar
+16:03:20 021:025 > dark
+
+16:03:31 074:004 > t
+16:03:31 074:005 > te
+16:03:32 074:006 > tex
+16:03:32 074:007 > text
+16:03:38 074:004 > textf
+16:03:38 074:005 > textfo
+16:03:38 074:006 > textfon
+16:03:39 074:007 > textfont
+16:03:39 074:008 > textfonts
+16:03:40 074:009 > textfontsi
+16:03:40 074:004 > font-size: ;
+16:03:43 074:015 > 1
+16:03:43 074:016 > 15
+16:03:43 074:017 > 15p
+16:03:43 074:018 > 15px
+16:03:48 074:015 > 15px5
+16:03:49 074:016 > 15px50
+16:03:53 074:015 > 15px502
+16:03:54 074:016 > 15px5020
+
+16:04:01 073:004 > m
+16:04:01 073:005 > ma
+16:04:01 073:006 > mar
+16:04:01 073:007 > marg
+16:04:01 073:008 > margi
+16:04:01 073:009 > margin
+16:04:02 073:004 > margin-top: ;
+16:04:04 073:016 > 1
+16:04:04 073:017 > 15
+16:04:05 073:018 > 15p
+16:04:05 073:019 > 15px
+16:05:33 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+16:05:37 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index3.html
+----------------------------------------
+
+16:05:55 018:008 > 3
+16:05:57 018:022 > 33
+16:06:01 018:022 > 332
+16:06:01 018:008 > 3322
+16:07:00 007:004 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+
+16:07:03 043:039 > /
+
+16:07:03 042:027 > /
+
+16:07:03 035:039 > /
+
+16:07:03 034:025 > /
+
+16:07:03 027:039 > /
+
+16:07:03 026:027 > /
+
+16:07:03 009:095 > /
+
+16:07:03 008:067 > /
+
+16:07:03 007:062 > /
+16:07:06 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index2.html
+----------------------------------------
+16:07:10 007:004 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+
+16:07:11 009:095 > /
+
+16:07:11 008:067 > /
+
+16:07:11 007:062 > /
+16:07:14 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+16:07:16 007:004 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+
+16:07:18 025:048 > /
+
+16:07:18 009:095 > /
+
+16:07:18 008:067 > /
+
+16:07:18 007:062 > /
+
+16:07:18 006:043 > /
+
+16:07:18 004:072 > /
+
+16:07:18 003:025 > /
+16:07:21 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+16:07:24 007:004 > <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+
+16:07:25 009:095 > /
+
+16:07:25 008:067 > /
+
+16:07:25 007:062 > /
+
+16:07:26 000:000 > l
+16:07:27 000:001 > la
+16:07:27 000:002 > lag
+16:07:27 000:003 > lagt
+16:07:27 000:005 > lagt t
+16:07:27 000:006 > lagt ti
+16:07:28 000:007 > lagt til
+16:07:28 000:008 > lagt till
+16:07:28 000:010 > lagt till f
+16:07:29 000:011 > lagt till fo
+16:07:29 000:012 > lagt till fon
+16:07:29 000:013 > lagt till font
+16:07:29 000:015 > lagt till font f
+16:07:29 000:016 > lagt till font fa
+16:07:29 000:017 > lagt till font fam
+16:07:30 000:018 > lagt till font fami
+16:07:31 000:019 > lagt till font famil
+16:07:31 000:020 > lagt till font family
+16:07:37 007:000 > <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <h1>Catdoption</h1>
+      <ul class="meny">
+        <li><a href="index.html">Catdoption</a></li>
+        <li><a href="index2.html">Om oss</a></li>
+        <li><a class="aktiv" href="index3.html">Prislista</a></li>
+        <li><a href="index4.html">Katter</a></li>
+      </ul>
+
+      <h2>Prislista</h2>
+      <h2>kattungar:</h2>
+      <p>
+        Bondkatt: 850kr <br />
+        Raskatt kategori 1: 3500 kr <br />
+        Raskatt kategori 2: 5500 kr
+      </p>
+      <h2>Vuxna katter 1-8 år:</h2>
+      <p>
+        bondkatt: 500 <br />
+        Raskatt kategori 1: 3000 kr <br />
+        Raskatt kategori 2: 4500 kr
+      </p>
+      <h2>Vuxna katter 8-15 år:</h2>
+      <p>
+        bondkatt: 250kr <br />
+        Raskatt kategori 1: 2200 kr <br />
+        Raskatt kategori 2: 3500 kr
+      </p>
+16:07:37 007:000 > <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <h1>Catdoption</h1>
+      <ul class="meny">
+        <li><a href="index.html">Catdoption</a></li>
+        <li><a href="index2.html">Om oss</a></li>
+        <li><a href="index3.html">Prislista</a></li>
+        <li><a class="aktiv" href="index4.html">Katter</a></li>
+      </ul>
+
+      <h2>Våra katter</h2>
+16:07:37 007:000 > <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
+      rel="stylesheet"
+    />
+16:07:37 001:016 > <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title></title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="kontainer">
+      <h1>Catdoption</h1>
+      <ul class="meny">
+        <li><a class="aktiv" href="index.html">Catdoption</a></li>
+        <li><a href="index2.html">Om oss</a></li>
+        <li><a href="index3.html">Prislista</a></li>
+        <li><a href="index4.html">Katter</a></li>
+      </ul>
+
+      <h2>Vi är ett adoptionscenter för katter i alla åldrar</h2>
+      <p>Vi har massa katter i olika storlekar, raser , färger och åldrar</p>
+
+      <figure>
+        <img src="./bilder/sloop.jpg" alt="" />
+        <figcaption>
+          Här är en av de fluffiga vännerna ni kan adoptera
+        </figcaption>
+      </figure>
+    </div>
+  </body>
+</html>
+16:07:46 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+16:07:56 029:004 > f
+16:07:56 029:005 > fo
+16:07:56 029:006 > fon
+16:07:56 029:007 > font
+16:07:58 029:004 > font-family: ;
+16:07:58 029:017 > m
+16:07:58 029:018 > me
+16:07:58 029:019 > met
+16:07:59 029:020 > meta
+16:07:59 029:021 > metal
+16:08:04 029:023 > metal m
+16:08:04 029:024 > metal ma
+16:08:04 029:025 > metal man
+16:08:04 029:026 > metal mani
+16:08:04 029:027 > metal mania
+16:08:05 029:028 > metal mania,
+16:08:08 029:030 > metal mania, s
+16:08:08 029:031 > metal mania, sy
+16:08:08 029:032 > metal mania, sys
+16:08:09 029:033 > metal mania, syst
+16:08:09 029:030 > system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+16:08:11 029:133 > ', 'Helvetica Neue', sans-serif
+16:08:12 029:030 > syst
+16:08:15 029:030 >  s
+16:08:15 029:031 >  sy
+16:08:15 029:032 >  sys
+16:08:15 029:033 >  syst
+16:08:16 029:034 >  syste
+16:08:16 029:035 >  system
+16:08:17 029:036 >  system-
+16:08:17 029:037 >  system-u
+16:08:18 029:038 >  system-ui
+16:08:27 059:004 > font-family: metal mania, system-ui;
+16:08:30 073:004 > font-family: metal mania, system-ui;
+16:08:32 079:004 > font-family: metal mania, system-ui;
+
+16:08:36 000:000 > l
+16:08:36 000:001 > la
+16:08:36 000:002 > lad
+16:08:36 000:003 > lade
+16:08:36 000:005 > lade t
+16:08:37 000:006 > lade ti
+16:08:37 000:007 > lade til
+16:08:37 000:008 > lade till
+16:08:37 000:010 > lade till f
+16:08:37 000:011 > lade till fo
+16:08:37 000:012 > lade till fon
+16:08:38 000:013 > lade till font
+16:08:38 000:015 > lade till font f
+16:08:38 000:016 > lade till font fa
+16:08:38 000:017 > lade till font fam
+16:08:38 000:018 > lade till font fami
+16:08:38 000:019 > lade till font famil
+16:08:39 000:020 > lade till font family
+16:08:39 000:022 > lade till font family i
+16:08:40 000:024 > lade till font family i c
+16:08:40 000:025 > lade till font family i cs
+16:08:40 000:026 > lade till font family i css
+16:08:45 029:000 > font-family: metal mania, system-ui;
+}
+
+/* meny */
+
+.kontainer .meny{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+.kontainer .kontainer li{
+    list-style-type: none;
+}
+.kontainer .meny li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+ 
+/* innehållet */
+
+.kontainer h2{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    font-family: metal mania, system-ui;
+}
+.kontainer figure{
+    text-align: center;
+}
+.kontainer figure img{
+    width: auto;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.kontainer p{
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+    font-family: metal mania, system-ui;
+}
+.kontainer figcaption{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-family: metal mania, system-ui;

@@ -1,0 +1,308 @@
+24-05-30 15:17 Session started
+----------------------------------------
+15:17:38 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:17:59 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+
+15:18:14 026:006 > i
+15:18:14 026:007 > im
+15:18:14 026:008 > img
+15:18:15 026:006 > <img src="" alt="">
+15:18:17 026:000 > <img src="" alt="">
+15:18:17 027:000 > <img src="" alt="">
+15:19:46 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:19:57 026:016 > .
+15:19:57 026:017 > ./
+15:19:58 026:018 > bilder/
+15:20:00 026:000 > <img src="./bilder/" alt="">
+15:20:00 027:000 > <img src="./bilder/" alt="">
+15:20:02 026:025 > c
+15:20:02 026:026 > ch
+15:20:03 026:025 > chill.jpg
+
+15:20:05 027:025 > t
+15:20:05 027:026 > tj
+15:20:06 027:025 > tjock.jpg
+
+15:20:07 028:025 > m
+15:20:07 028:026 > mi
+15:20:08 028:027 > min
+15:20:08 028:028 > mini
+15:20:08 028:025 > mini.jpg
+15:20:21 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+
+15:20:30 081:000 > -
+15:20:32 081:000 > -.
+15:20:32 081:000 > .kontainer
+15:20:33 081:011 >  i
+15:20:33 081:012 >  im
+15:20:33 081:013 >  img
+15:20:36 081:014 > {}
+
+15:20:39 082:004 > i
+15:20:40 082:005 > im
+15:20:40 082:006 > img
+15:21:24 082:004 > imgw
+15:21:24 082:005 > imgwi
+15:21:24 082:006 > imgwid
+15:21:25 082:004 > width: ;
+15:21:26 082:011 > 1
+15:21:26 082:012 > 10
+15:21:26 082:013 > 100
+15:21:27 082:014 > 100%
+15:21:37 082:011 > 100%a
+15:21:37 082:012 > 100%au
+15:21:37 082:013 > 100%aut
+15:21:37 082:014 > 100%auto
+15:21:38 082:011 > auto
+
+15:22:11 083:004 > t
+15:22:11 083:005 > te
+15:22:12 083:004 > text-align: ;
+15:22:13 083:016 > c
+15:22:14 083:016 > center
+
+15:23:33 082:011 > 5
+15:23:33 082:012 > 50
+15:23:33 082:013 > 50%
+15:23:41 082:011 > 50%1
+15:23:41 082:012 > 50%10
+15:23:42 082:011 > 50%102
+15:23:42 082:012 > 50%1020
+15:23:42 082:013 > 50%1020%
+
+15:23:51 083:004 > h
+15:23:51 083:005 > he
+15:23:51 083:006 > hei
+15:23:52 083:004 > height: ;
+
+15:23:55 082:010 > 3
+15:23:55 082:011 > 30
+15:23:55 082:012 > 300
+15:23:56 082:013 > 300p
+15:23:56 082:014 > 300px
+
+15:23:58 083:011 > 3
+15:23:59 083:012 > 30
+15:23:59 083:013 > 300
+15:23:59 083:014 > 300p
+15:23:59 083:015 > 300px
+15:24:06 083:004 > hei
+
+15:24:10 082:011 > 3
+15:24:10 082:012 > 30
+15:24:10 082:013 > 30%
+
+15:24:26 060:004 > p
+15:24:26 060:005 > pa
+15:24:26 060:006 > pad
+15:24:27 060:007 > padd
+15:24:27 060:008 > paddi
+15:24:28 060:004 > padding-bottom: ;
+15:24:29 060:020 > 2
+15:24:30 060:021 > 20
+15:24:30 060:022 > 20p
+15:24:30 060:023 > 20px
+15:27:22 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+
+15:27:46 034:006 > b
+15:27:46 034:007 > bu
+15:27:46 034:008 > but
+15:27:47 034:009 > butt
+15:27:47 034:010 > butto
+15:27:47 034:011 > button
+15:27:47 034:006 > <button></button>
+15:27:52 034:014 >  o
+15:27:53 034:015 >  on
+15:27:53 034:016 >  onc
+15:27:53 034:017 >  oncl
+15:27:54 034:014 > onclick=""
+15:27:55 034:023 > s
+15:27:55 034:024 > sh
+15:27:56 034:025 > sho
+15:27:56 034:026 > show
+15:28:00 034:027 > showi
+15:28:00 034:028 > showim
+15:28:00 034:029 > showima
+15:28:01 034:030 > showimae
+15:28:01 034:030 > showimaeg
+15:28:01 034:031 > showimaege
+15:28:02 034:032 > ()
+15:28:02 034:033 > )
+15:28:23 034:005 > )b
+15:28:23 034:006 > )bu
+15:28:23 034:007 > )but
+15:28:23 034:005 > <button></button>
+15:28:25 034:013 > k
+15:28:25 034:014 > kl
+15:28:25 034:015 > kli
+15:28:25 034:016 > klic
+15:28:26 034:017 > klick
+15:28:26 034:018 > klick a
+15:28:27 034:020 > klick a i
+15:28:27 034:020 > klick a im
+15:28:28 034:021 > klick a imi
+15:28:28 034:022 > klick a imig
+15:28:32 034:013 > klick a imig o
+15:28:32 034:014 > klick a imig on
+15:28:33 034:015 > klick a imig onc
+15:28:33 034:016 > klick a imig oncl
+15:28:34 034:013 > onclick=""
+15:28:42 034:022 > s
+15:28:42 034:023 > sc
+15:28:42 034:024 > scr
+15:28:42 034:025 > scri
+15:28:43 034:026 > scrip
+15:28:43 034:027 > script
+15:28:44 034:028 > script.
+15:28:44 034:029 > script.j
+15:28:45 034:030 > script.js
+15:28:53 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\script.js
+----------------------------------------
+15:29:47 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:29:51 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:29:56 034:022 > script.jss
+15:29:56 034:023 > script.jssh
+15:29:57 034:024 > script.jssho
+15:29:57 034:025 > script.jsshow
+15:29:58 034:026 > script.jsshowi
+15:29:58 034:027 > script.jsshowim
+15:29:58 034:028 > script.jsshowima
+15:29:58 034:029 > script.jsshowimag
+15:29:58 034:030 > script.jsshowimage
+15:29:59 034:031 > ()
+15:29:59 034:032 > )
+
+15:30:15 037:005 > s
+15:30:15 037:006 > sc
+15:30:16 037:007 > scr
+15:30:16 037:008 > scri
+15:30:16 037:005 > <script></script>
+15:30:23 037:013 >  s
+15:30:23 037:014 >  sr
+15:30:24 037:013 > src=""
+15:30:25 037:018 > s
+15:30:25 037:019 > sc
+15:30:25 037:020 > scr
+15:30:26 037:021 > scri
+15:30:27 037:022 > scrip
+15:30:27 037:023 > script
+15:30:28 037:024 > script.
+15:30:28 037:025 > script.j
+15:30:28 037:026 > script.js
+15:30:39 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+15:30:39 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\script.js
+----------------------------------------
+
+15:30:44 000:000 > f
+15:30:44 000:001 > fu
+15:30:45 000:002 > fuc
+15:30:45 000:002 > fucn
+15:30:45 000:000 > function
+15:30:49 000:009 >  s
+15:30:49 000:010 >  sh
+15:30:49 000:011 >  sho
+15:30:49 000:012 >  show
+15:30:50 000:013 >  showi
+15:30:50 000:014 >  showim
+15:30:50 000:015 >  showima
+15:30:50 000:016 >  showimag
+15:30:50 000:017 >  showimage
+15:30:52 000:018 > ()
+15:30:52 000:019 > )
+15:30:54 000:021 > {}
+
+15:30:57 001:004 > c
+15:30:58 001:005 > co
+15:30:58 001:006 > con
+15:30:58 001:007 > cons
+15:30:59 001:008 > const
+15:30:59 001:004 > const
+15:31:44 001:004 > c
+15:31:44 001:005 > co
+15:31:44 001:006 > con
+15:31:44 001:007 > cons
+15:31:44 001:004 > console
+15:31:45 001:008 > t
+15:31:46 001:010 > t i
+15:31:46 001:011 > t im
+15:31:47 001:012 > t ima
+15:31:47 001:013 > t imag
+15:31:47 001:014 > t image
+15:31:50 001:012 > t imageg
+15:31:51 001:013 > t imageg_
+15:31:51 001:014 > t imageg_u
+15:31:52 001:013 > t imageg_uU
+15:31:52 001:014 > t imageg_uUR
+15:31:52 001:015 > t imageg_uURL
+15:31:54 001:017 > t imageg_uURL =
+15:31:56 001:019 > ''
+15:31:56 001:020 > '
+15:32:33 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:32:34 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\script.js
+----------------------------------------
+15:32:35 001:020 > 's
+15:32:35 001:021 > 'su
+15:32:36 001:022 > 'sur
+15:32:37 001:023 > 'surp
+15:32:37 001:024 > 'surpr
+15:32:37 001:025 > 'surpri
+15:33:41 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index4.html
+----------------------------------------
+15:33:45 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+15:35:04 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\script.js
+----------------------------------------
+15:35:08 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+
+15:35:23 034:026 > a
+15:35:23 034:027 > al
+15:35:23 034:028 > ale
+15:35:23 034:029 > alet
+15:35:23 034:029 > aletr
+15:35:24 034:030 > aletrt
+15:35:27 034:026 > aletrtA
+
+15:35:41 038:006 > f
+15:35:41 038:007 > fu
+15:35:41 038:008 > fun
+15:35:42 038:006 > function
+15:35:44 038:015 >  s
+15:35:46 038:016 >  sh
+15:35:46 038:017 >  sho
+15:35:46 038:018 >  show
+15:35:47 038:015 > showAlert
+15:35:48 038:025 >  =
+15:35:51 038:024 > []
+15:35:53 038:024 > ()
+15:35:55 038:025 > {}
+15:35:57 038:024 > ()
+15:35:57 038:026 > /
+15:35:58 038:026 > {}
+
+15:36:02 039:008 > a
+15:36:02 039:009 > al
+15:36:02 039:010 > ale
+15:36:02 039:011 > aler
+15:36:03 039:008 > alert
+15:36:07 039:013 > ()
+15:36:08 039:014 > ''
+15:36:10 039:015 > H
+15:36:10 039:016 > Ha
+15:36:10 039:017 > Hal
+15:36:10 039:018 > Hall
+15:36:11 039:019 > Hallå
+15:36:11 039:021 > Hallå k
+15:36:11 039:022 > Hallå ka
+15:36:12 039:023 > Hallå kar
+15:36:12 039:024 > Hallå kari
+15:36:12 039:025 > Hallå karim

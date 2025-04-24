@@ -1,0 +1,86 @@
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+ul{
+   margin: 0; 
+}
+body{
+    background-color: gray;
+}
+.kontainer{
+    width: 1000px;
+    margin: auto ;
+    padding: 50px;
+    background-color: darkgray;
+}
+.kontainer h1{
+    padding: 25px;
+    font-size: 70px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    font-family: metal mania, system-ui;
+}
+
+/* meny */
+
+.kontainer .meny{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+.kontainer .kontainer li{
+    list-style-type: none;
+}
+.kontainer .meny li a{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+ 
+/* innehållet */
+
+.kontainer h2{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    font-family: metal mania, system-ui;
+    padding-bottom: 20px;
+}
+.kontainer figure{
+    text-align: center;
+}
+.kontainer figure img{
+    width: auto;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.kontainer p{
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+    font-family: metal mania, system-ui;
+}
+.kontainer figcaption{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-family: metal mania, system-ui;
+}
+.kontainer img{
+    width: 30%;
+    text-align: center;
+}

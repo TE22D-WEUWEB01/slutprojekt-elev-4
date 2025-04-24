@@ -1,0 +1,47 @@
+24-05-02 14:05 Session started
+----------------------------------------
+14:15:39 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+14:15:46 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\style.css
+----------------------------------------
+14:15:55 000:000 > r
+14:15:55 000:001 > re
+14:15:55 000:002 > res
+14:15:55 000:003 > rese
+14:15:55 000:004 > reset
+14:15:55 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+14:15:56 Document switched to: c:\Users\leonard.wegmannsimo\github-classroom\TE22D-WEUWEB01\slutprojekt-Simpis69\SlutProjekt\index.html
+----------------------------------------
+14:15:57 000:000 > h
+14:15:57 000:001 > ht
+14:15:58 000:002 > htm
+14:15:58 000:003 > html
+14:15:58 000:000 > <html></html>
+14:15:59 000:006 > A
+14:16:01 000:000 > Ah
+14:16:01 000:001 > Ahm
+14:16:02 000:001 > Ahmt
+14:16:02 000:002 > Ahmtm
+14:16:02 000:003 > Ahmtml
+14:16:03 000:000 > <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html>
